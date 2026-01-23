@@ -1,6 +1,6 @@
 
 ## Research Question
-Can we use BMI and Age to accurately predict the percentage of body fat?
+Can we use BMI and Age to accurately predict the percentage of body fat in men?
 
 # Overview
 A statistical analysis using Linear and Logistic Regression to determine the efficacy of BMI and Age as predictors for Body Fat percentage. Includes data cleaning, outlier removal (IQR), and visualization.
@@ -18,3 +18,4 @@ A statistical analysis using Linear and Logistic Regression to determine the eff
 
 ## Data Source
 Dataset provided by [fedesoriano on Kaggle](https://www.kaggle.com).
+Limited to sample of 252 men.
