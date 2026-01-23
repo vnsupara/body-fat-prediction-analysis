@@ -8,8 +8,8 @@ A statistical analysis using linear and logistic regression to determine the eff
 ## Key Features
 - **Data Cleaning:** Automated outlier removal using the IQR
 - **Linear Regression:** Modeling the relationship between age/BMI and body fat
-- **Logistic Regression:** Classifying "High Body Fat" (over 20%) based on BMI.
-- **Visualizations:** Regression plots, age-grouped scatter plots, and heatmaps for confusion matrices.
+- **Logistic Regression:** Classifying "High Body Fat" (over 20%) based on BMI
+- **Visualizations:** Regression plots, age-grouped scatter plots, heatmaps, and confusion matrices
 
 ## Key Insights
 - **BMI** accounts for approximately **47.4%** of the variance in body fat.
